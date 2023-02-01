@@ -12,12 +12,12 @@ ___
 ### Data Cleaning
 * First Look
 * Clean each columns
-** Plan
-** Price
-** Language
-** CostumerRatings & NumOfReviews
-** NumOfReviews
-** Comments
+1. Plan
+2. Price
+3. Language
+4. CostumerRatings & NumOfReviews
+5. NumOfReviews
+6. Comments
 ### Exploratory Data Analysis & Machine Learning
 * Most Reviewed & Highly Rated Books
 * Price vs Pages
